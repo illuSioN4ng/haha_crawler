@@ -3,4 +3,4 @@
 **根据[yuyuyu ](https://zhuanlan.zhihu.com/p/24730075)这篇文章，对代码有些许修改**
 
 部分数据如下图：
-[图片](./img/1/png)
+![图片](./img/1/png)
